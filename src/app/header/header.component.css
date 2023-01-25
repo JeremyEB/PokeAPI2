@@ -1,0 +1,12 @@
+/*Header*/
+
+header{
+    padding:20px 0px;
+    text-align:center;
+    background-color:#2E86C1;
+}
+
+header h1{
+    text-transform:capitalize;
+    color:white;
+}
